@@ -1,0 +1,154 @@
+.div-image-trello {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.image-trello {
+  width: 11.5%;
+}
+.cont-About {
+  background-color: #f8fafc;
+}
+.cart-sign-up {
+  width: 400px;
+  height: 536px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(0 0 0 / 10%) 0 0 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cont-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.header-cart-sign-up {
+  margin-top: 30px;
+}
+.input-eamil-cart-sign-up {
+  font-size: 14px;
+  background-color: #fafbfc;
+  border: 2px solid #dfe1e6;
+  box-sizing: border-box;
+  border-radius: 3px;
+  height: 44px;
+  width: 78%;
+  margin-top: 30px;
+}
+.dis-cart-sign-up {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #5e6c84;
+  width: 78%;
+}
+
+.btn-continue {
+  border-radius: 4px;
+  background: #e2e4e6 !important;
+  color: hsl(0, 0%, 55%);
+  width: 77%;
+  height: 6%;
+  border: none;
+}
+.or-cart-sign-up {
+  margin-top: 20px;
+  font-size: 13px;
+  color: hsl(0, 0%, 55%);
+}
+.sign-google {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.54);
+  box-shadow: rgb(0 0 0 / 20%) 1px 1px 5px 0;
+  border-color: transparent;
+  text-align: center;
+  border-radius: 3px;
+  width: 78%;
+  height: 39px;
+  padding-top: 0;
+  margin-top: 40px;
+  margin-bottom: 12px;
+  font-weight: 700;
+  justify-content: center;
+}
+.sign-Microsoft {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.54);
+  box-shadow: rgb(0 0 0 / 20%) 1px 1px 5px 0;
+  border-color: transparent;
+  text-align: center;
+  border-radius: 3px;
+  width: 78%;
+  height: 39px;
+  padding-top: 0;
+  margin-top: 5px;
+  margin-bottom: 12px;
+  font-weight: 700;
+  justify-content: center;
+}
+
+.sign-apple {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.54);
+  box-shadow: rgb(0 0 0 / 20%) 1px 1px 5px 0;
+  border-color: transparent;
+  text-align: center;
+  border-radius: 3px;
+  width: 78%;
+  height: 39px;
+  padding-top: 0;
+  margin-top: 5px;
+  margin-bottom: 12px;
+  font-weight: 700;
+  justify-content: center;
+}
+.icon-apple {
+  width: 23px;
+}
+.have-account {
+  color: #0052cc;
+  font-size: 14px;
+  margin-top: 25px;
+}
+
+.image-footer {
+  width: 20%;
+}
+.footer-sign-up {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+select {
+  height: 35px;
+  color: #8f9193;
+  border: 1px solid #d7dbdf;
+  border-radius: 2px;
+}
+.atlassian {
+  width: 40%;
+  margin-top: 60px;
+}
+
+.cont-mid-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cont-a {
+  display: flex;
+  margin-top: 60px;
+}
+.item-a {
+  padding: 0px 10px;
+  margin-top: 10px;
+}
